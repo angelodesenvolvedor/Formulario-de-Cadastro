@@ -6,7 +6,7 @@ Este é um simples formulário de cadastro criado usando HTML e CSS. Ele possui 
 
 O formulário é dividido em duas seções: uma imagem na metade esquerda e o formulário na metade direita.
 
-![Formulário] ![Captura de tela 2023-11-17 095140](https://github.com/angelodesenvolvedor/Formulario-de-Cadastro/assets/98216100/9149adf9-bad2-4315-a025-cbf1af7c2d60)
+![Formulário] ![Captura de tela 2023-11-17 095140](https://github.com/angelodesenvolvedor/Formulario-de-Cadastro/assets/98216100/9149adf9-bad2-4315-a025-cbf1af7c2d60) 
 
 
 ## Estilos CSS
