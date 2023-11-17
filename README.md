@@ -17,9 +17,4 @@ O estilo do formulário é definido no arquivo `style.css`, que utiliza a fonte 
 
 O formulário é responsivo, adaptando-se a diferentes tamanhos de tela. O design muda para uma exibição de coluna em telas menores, garantindo uma experiência amigável em dispositivos móveis.
 
-## Instruções de Uso
 
-1. Clone este repositório.
-2. Abra o arquivo `index.html` em seu navegador para visualizar o formulário.
-
-Sinta-se à vontade para modificar e adaptar o código conforme necessário para atender aos seus requisitos específicos.
