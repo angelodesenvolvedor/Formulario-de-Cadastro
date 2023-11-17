@@ -8,6 +8,13 @@ O formulário é dividido em duas seções: uma imagem na metade esquerda e o fo
 
 ![Formulário] ![Captura de tela 2023-11-17 095140](https://github.com/angelodesenvolvedor/Formulario-de-Cadastro/assets/98216100/9149adf9-bad2-4315-a025-cbf1af7c2d60) 
 
+## Desenvolvido com
+
+<div class="image-container">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" width="40" height="40" />
+</div>
+
 
 ## Estilos CSS
 
